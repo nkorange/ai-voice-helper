@@ -1,2 +1,2 @@
-# chatgpt-voice-helper
-A chatgpt app to use chatgpt via voice
+# ai-voice-helper
+An AI app to use chatgpt via voice
